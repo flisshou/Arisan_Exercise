@@ -1,0 +1,19 @@
+{
+  "name": "arisan_exercise",
+  "version": "1.0.0",
+  "description": "Simple exercise for 2nd interview",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "Fliss Hou",
+  "license": "ISC",
+  "dependencies": {
+    "uri": "^0.1.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
